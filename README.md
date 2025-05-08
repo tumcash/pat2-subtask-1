@@ -2,29 +2,12 @@ MORSE CODE INVESTIGATION
 
 "Morse code" is a method of encoding text characters using sequences of dots (`.`) and dashes (`–`) to represent each letter, numeral, or punctuation mark. It was developed in the 1830s and 1840s for use with early telecommunication systems, especially the telegraph.
 
--Usage👤
-
-* Originally used in telegraphy, later in radio communication.
-* Widely used in military, aviation, and emergency signaling.
-* The international distress signal SOS is encoded as `... --- ...`.
-
 Example
 
 *Word: HELLO
 *Morse: `.... . .-.. .-.. ---`
 
--Modern Relevance
-
-* Morse code is no longer widely used in commercial communication but is still learned by amateur radio operators.
-* Some use it as a "backup communication tool", especially in emergencies or inaccessible environments.
-Morse code was created in the early 19th century as a solution to a major communication problem: **how to transmit messages quickly over long distances**. Prior to this, communication relied on physical means—letters, messengers, or semaphore systems—which were slow and limited by geography and weather.
-
 -Historical Context:
-
-1. First Use and Spread:
-
-   * The first successful long-distance telegraph message was sent by Morse in "1844" from Washington, D.C., to Baltimore: “What hath God wrought.”
-   * The success of the telegraph system, powered by Morse code, led to its rapid adoption across the U.S. and eventually the world, transforming communication globally.
 
 -EXPLAINING HOW MORSE CODE WORKS
 
