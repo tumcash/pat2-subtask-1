@@ -7,18 +7,24 @@ Example
 *Word: HELLO
 *Morse: `.... . .-.. .-.. ---`
 
--Historical Context:
+-The historical context for its creation includes:
 
--EXPLAINING HOW MORSE CODE WORKS
+1. Industrial Revolution:Brought rapid advancements in technology and the need for faster communication, especially for expanding commerce, railroads, and governance.
 
-* Morse code works by "encoding letters, numbers, and punctuation into a series of short and long signals", which can be transmitted via sound, light, or electrical pulses.
+
+2. Limitations of existing communication: Before Morse code, long-distance messages were sent by mail or courier, which was slow and unreliable.
+
+
+3. Development of the electric telegraph: Samuel Morse developed one of the first practical electric telegraphs. To make it useful, he needed a simple way to encode and transmit language over electrical signals.
+
+-EXPLAINING HOW MORSE CODE WORKS:
+Morse code works by "encoding letters, numbers, and punctuation into a series of short and long signals", which can be transmitted via sound, light, or electrical pulses.
 
 -Core Principles of Morse Code:
 
 1. Dots and Dashes:
-
-   * A dot (•) is a short signal.
-   * A dash (—) is a longer signal, typically three times the length of a dot.
+*A dot (•) is a short signal.
+*A dash (—) is a longer signal, typically three times the length of a dot.
 
 2. Timing Rules:
 
